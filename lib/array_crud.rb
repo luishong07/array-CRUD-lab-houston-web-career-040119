@@ -39,6 +39,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  stuff["strings","arrays"]
+  stuff=["strings","arrays"]
   stuff[-1]
 end
